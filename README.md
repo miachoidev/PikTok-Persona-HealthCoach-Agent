@@ -5,6 +5,9 @@
 ## 개발 배경
 
 ## 서비스 미리보기
+![챗두개.gif](attachment:e5b746d4-35e2-4c6b-b0ec-1b5ac9d7b62e:챗두개.gif)
+
+![image.png](attachment:d5206bfb-11f8-4b2c-be5e-8c0726c144f5:a71ec28b-ad3f-4742-acda-812abd9025d2.png)
 
 (캡쳐본)
 
